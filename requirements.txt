@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+python-dotenv
+duckdb
+openai # Or google-generativeai, if you switch
+google-generativeai # If you use Google Gemini
+Pillow
+lxml # Crucial for pandas.read_html to avoid 'Missing optional dependency lxml'
