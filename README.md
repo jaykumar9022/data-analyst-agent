@@ -60,7 +60,7 @@ your-project-folder/
 }
 
 # When above question sucessfully completed then try Next question
-    {
+   {
   "task": "The Indian high court judgement dataset contains judgements from the Indian High Courts, downloaded from [ecourts website](https://judgments.ecourts.gov.in/). It contains judgments of 25 high courts, along with raw metadata (as .json) and structured metadata (as .parquet). ... [paste the rest of your Indian High Court question.txt content here, ensuring it's a single string for the 'task' key]"
 }
 
