@@ -2,12 +2,12 @@
 A data analyst agent exposed as a FastAPI API endpoint. It leverages Large Language Models to process natural language data analysis tasks, including web scraping, data querying, and generating visualizations.
 
  your-project-folder/
-├── main.py             # Your FastAPI application code
-├── requirements.txt    # List of all Python dependencies
-├── .env                # Your API keys and sensitive environment variables (DO NOT COMMIT!)
-├── .gitignore          # Specifies files/folders to ignore in Git
-├── Dockerfile          # (Optional but recommended) For containerized deployment
-├── LICENSE             # The MIT License file
+ ├── main.py             # Your FastAPI application code
+ ├── requirements.txt    # List of all Python dependencies
+ ├── .env                # Your API keys and sensitive environment variables (DO NOT COMMIT!)
+ ├── .gitignore          # Specifies files/folders to ignore in Git
+ ├── Dockerfile          # (Optional but recommended) For containerized deployment
+ ├── LICENSE             # The MIT License file
 
 **What to Do on GitHub**
 *Your journey starts here. GitHub will host your project's code.*
